@@ -1,11 +1,11 @@
 # Site settings
-author: Randel Jiao
-title: 
+author: Randel-James "Kazan" d. Jiao
+title: KazanCodes
 header-img: img/home-bg.png
 email: randeljiao@gmail.com
-copyright_name: Randel Jiao
+copyright_name: Randel-James "Kazan" d. Jiao
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Coding Adventures and Meltdowns of Kazan. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Kazankage
