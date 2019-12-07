@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Coffee_profiles"
+title:      "coffee_profiles"
 date:       2019-11-03 18:51:57 -0500
 permalink:  coffee_profiles
 ---
