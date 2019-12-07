@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Pinoy_Dishes"
+title:      "pinoy_dishes"
 date:       2019-10-05 21:35:21 -0400
 permalink:  pinoy_dishes
 ---
