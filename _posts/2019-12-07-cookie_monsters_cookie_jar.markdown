@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "cookie_monsters_cookie_jar"
-date:       2019-12-07 23:24:24 +0000
+date:       2019-12-07 18:24:25 -0500
 permalink:  cookie_monsters_cookie_jar
 ---
 
